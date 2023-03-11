@@ -1,0 +1,15 @@
+C:\Users\meesh\source\repos\LLTAndLNLT\LLTAndLNLT\bin\Debug\net6.0\LLTAndLNLT.exe
+C:\Users\meesh\source\repos\LLTAndLNLT\LLTAndLNLT\bin\Debug\net6.0\LLTAndLNLT.deps.json
+C:\Users\meesh\source\repos\LLTAndLNLT\LLTAndLNLT\bin\Debug\net6.0\LLTAndLNLT.runtimeconfig.json
+C:\Users\meesh\source\repos\LLTAndLNLT\LLTAndLNLT\bin\Debug\net6.0\LLTAndLNLT.dll
+C:\Users\meesh\source\repos\LLTAndLNLT\LLTAndLNLT\bin\Debug\net6.0\LLTAndLNLT.pdb
+C:\Users\meesh\source\repos\LLTAndLNLT\LLTAndLNLT\obj\Debug\net6.0\LLTAndLNLT.csproj.AssemblyReference.cache
+C:\Users\meesh\source\repos\LLTAndLNLT\LLTAndLNLT\obj\Debug\net6.0\LLTAndLNLT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meesh\source\repos\LLTAndLNLT\LLTAndLNLT\obj\Debug\net6.0\LLTAndLNLT.AssemblyInfoInputs.cache
+C:\Users\meesh\source\repos\LLTAndLNLT\LLTAndLNLT\obj\Debug\net6.0\LLTAndLNLT.AssemblyInfo.cs
+C:\Users\meesh\source\repos\LLTAndLNLT\LLTAndLNLT\obj\Debug\net6.0\LLTAndLNLT.csproj.CoreCompileInputs.cache
+C:\Users\meesh\source\repos\LLTAndLNLT\LLTAndLNLT\obj\Debug\net6.0\LLTAndLNLT.dll
+C:\Users\meesh\source\repos\LLTAndLNLT\LLTAndLNLT\obj\Debug\net6.0\refint\LLTAndLNLT.dll
+C:\Users\meesh\source\repos\LLTAndLNLT\LLTAndLNLT\obj\Debug\net6.0\LLTAndLNLT.pdb
+C:\Users\meesh\source\repos\LLTAndLNLT\LLTAndLNLT\obj\Debug\net6.0\LLTAndLNLT.genruntimeconfig.cache
+C:\Users\meesh\source\repos\LLTAndLNLT\LLTAndLNLT\obj\Debug\net6.0\ref\LLTAndLNLT.dll
